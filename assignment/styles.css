@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 30px;
+}
+
+p, ul, .github-button {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 18px;
+    line-height: 25px;
+    margin-right: 50px;
+
+}
+
+.page-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 30px;
+}
+.cat {
+    height: 300px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.google_map {
+    height: 50%;
+    width: 70%;
+    border-radius: 20px;
+}
+
+.github-button {
+    padding: 10px;
+    background-color: rgb(114, 116, 235);
+    color: whitesmoke;
+    border-radius: 10px;
+    border: 0px;
+    cursor: pointer;
+}

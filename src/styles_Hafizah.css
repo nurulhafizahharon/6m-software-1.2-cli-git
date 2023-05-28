@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+}
+
+li {
+    font-style: italic;
+}
+
+/* Want the element with the id=intro to be selected*/
+#intro {
+    background-color: beige;
+}
+
+/* want the profilepic class to be selected*/
+.profilepic {
+    opacity: 0.6;
+    border-radius: 10px;
+}
