@@ -22,7 +22,7 @@ Check-in with learners for a short Q&A about the video.
 
 ### Fork and clone repository
 
-Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort2) on the browser.
+Step 1: Visit [this dummy repository url](https://github.com/su-ntu-ctp/se-cohort3) on the browser.
 
 Step 2: Fork it as your own repository.
 
@@ -30,7 +30,7 @@ Step 3: Launch VS Code and open the folder where you would clone all repositorie
 
 Step 4: Start a Terminal within VS Code.
 
-Step 5: Enter the command `git clone https://github.com/<your username>/se-cohort2` and hit Enter.
+Step 5: Enter the command `git clone https://github.com/<your username>/se-cohort3` and hit Enter.
 
 Step 6: A new folder should appear the directory.
 
